@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>San Diego Python</title><link href="http://pythonsd.org/" rel="alternate"></link><link href="http://pythonsd.org/feeds/posts.atom.xml" rel="self"></link><id>http://pythonsd.org/</id><updated>2013-01-25T00:00:00-08:00</updated><entry><title>A Year in Review</title><link href="http://pythonsd.org/a-year-in-review-2012.html" rel="alternate"></link><updated>2013-01-25T00:00:00-08:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2013-01-25:a-year-in-review-2012.html</id><summary type="html">&lt;p&gt;A little over a year ago on January 12, 2012, we had the first DjangoSD meeting
+<feed xmlns="http://www.w3.org/2005/Atom"><title>San Diego Python</title><link href="http://pythonsd.org/" rel="alternate"></link><link href="http://pythonsd.org/feeds/posts.atom.xml" rel="self"></link><id>http://pythonsd.org/</id><updated>2013-02-23T00:00:00-08:00</updated><entry><title>Django Day</title><link href="http://pythonsd.org/february-2013-django-day.html" rel="alternate"></link><updated>2013-02-23T00:00:00-08:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2013-02-23:february-2013-django-day.html</id><summary type="html">&lt;p&gt;&lt;a href="./static/images/2013-02-23_django-day.jpg"&gt;
+  &lt;img src="./static/images/2013-02-23_django-day.jpg" style="width: 300px; margin: 10px;" class="img-polaroid pull-right" alt="Django Day workshop" /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We had about 30 people attend our
+&lt;a href="http://www.meetup.com/pythonsd/events/95751792/"&gt;Django Day workshop&lt;/a&gt;.
+We had both an intro track for people new to Django and an intermediate
+track for those who attended our previous
+&lt;a href="http://www.meetup.com/pythonsd/events/83842622/"&gt;Intro to Django workshop&lt;/a&gt;
+or have Django experience. Thanks to
+&lt;a href="http://cukerinteractive.com"&gt;Cuker&lt;/a&gt; for sponsoring today's event!&lt;/p&gt;
+&lt;p&gt;The code and slides are up on
+&lt;a href="https://github.com/pythonsd/learning-django"&gt;github&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In April we will be having a
+&lt;a href="http://www.meetup.com/pythonsd/events/94234812/"&gt;Python for Data Analysis&lt;/a&gt;
+workshop sponsored by Qualcomm's Open Source Portal group. Sign up before
+it fills up!&lt;/p&gt;</summary><category term="workshop"></category></entry><entry><title>A Year in Review</title><link href="http://pythonsd.org/a-year-in-review-2012.html" rel="alternate"></link><updated>2013-01-25T00:00:00-08:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2013-01-25:a-year-in-review-2012.html</id><summary type="html">&lt;p&gt;A little over a year ago on January 12, 2012, we had the first DjangoSD meeting
 in months but a grand total of four people including the organizer and host
 attended. Since the previous organizer Ted left for silicon valley, the group
 had become smaller and the meetups less frequent. Kendall, Bob, Michael and I
