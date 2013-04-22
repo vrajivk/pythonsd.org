@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>San Diego Python</title><link href="http://pythonsd.org/" rel="alternate"></link><link href="http://pythonsd.org/feeds/posts.atom.xml" rel="self"></link><id>http://pythonsd.org/</id><updated>2013-03-28T00:00:00-07:00</updated><entry><title>March 2013 Meetup</title><link href="http://pythonsd.org/march-2013-meetup.html" rel="alternate"></link><updated>2013-03-28T00:00:00-07:00</updated><author><name>Paul Collins</name></author><id>tag:pythonsd.org,2013-03-28:march-2013-meetup.html</id><summary type="html">&lt;p&gt;Paul Collins presented on some &lt;a href="https://docs.google.com/presentation/d/14uO_dlLeWBtvZDZBC6czuUXjrNYNjRn4G9CoPe7q4TI/edit#slide=id.p"&gt;functional programming tools in
+<feed xmlns="http://www.w3.org/2005/Atom"><title>San Diego Python</title><link href="http://pythonsd.org/" rel="alternate"></link><link href="http://pythonsd.org/feeds/posts.atom.xml" rel="self"></link><id>http://pythonsd.org/</id><updated>2013-04-20T00:00:00-07:00</updated><entry><title>Python for Data Analysis</title><link href="http://pythonsd.org/april-2013-data-analysis.html" rel="alternate"></link><updated>2013-04-20T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2013-04-20:april-2013-data-analysis.html</id><summary type="html">&lt;p&gt;&lt;a href="./static/images/2013-04-20_data-analysis.jpg"&gt;
+  &lt;img src="./static/images/2013-04-20_data-analysis.jpg" style="width: 300px; margin: 10px;" class="img-polaroid pull-right" alt="Python for Data Analysis" /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We had about 40 people attend our
+&lt;a href="http://www.meetup.com/pythonsd/events/94234812/"&gt;Python for data analysis workshop&lt;/a&gt;.
+Thanks to the
+&lt;a href="http://qualcomm.com"&gt;Qualcomm&lt;/a&gt; open source portal team for sponsoring
+today's event!&lt;/p&gt;
+&lt;p&gt;Here are the presentations:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;IPython and Numpy by Dave Cook
+ (&lt;a href="http://www.youtube.com/watch?v=wQXhnhbx5CM"&gt;video&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://nbviewer.ipython.org/5406317"&gt;Pandas&lt;/a&gt; by Karmel Allison
+ (&lt;a href="http://www.youtube.com/watch?v=riJjfiH7Neg"&gt;video&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Matplotlib by Drew Arnett&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://clarinova.box.com/shared/static/lug0dq4wzht39fwkgge9.pdf"&gt;Analyzing crime &amp;amp; census data&lt;/a&gt;
+ by Eric Busboom
+ (&lt;a href="http://www.youtube.com/watch?v=zGPdgykykTQ"&gt;video&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.slideshare.net/pythonsd/blaze-theevolutionofnumpy"&gt;Blaze: the future of numpy?&lt;/a&gt; by David Fischer&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I will edit this shortly with the remaining presentations and videos.
+All credit for creating, editing and uploading the videos goes to Eric
+Busboom.&lt;/p&gt;</summary><category term="workshop"></category></entry><entry><title>March 2013 Meetup</title><link href="http://pythonsd.org/march-2013-meetup.html" rel="alternate"></link><updated>2013-03-28T00:00:00-07:00</updated><author><name>Paul Collins</name></author><id>tag:pythonsd.org,2013-03-28:march-2013-meetup.html</id><summary type="html">&lt;p&gt;Paul Collins presented on some &lt;a href="https://docs.google.com/presentation/d/14uO_dlLeWBtvZDZBC6czuUXjrNYNjRn4G9CoPe7q4TI/edit#slide=id.p"&gt;functional programming tools in
 python&lt;/a&gt; and Trey Hunner presented on &lt;a href="https://github.com/pythonsd/presentations/tree/master/list_comprehensions"&gt;list
 comprehensions&lt;/a&gt;&lt;/p&gt;</summary><category term="regular-meetup"></category><category term="social"></category></entry><entry><title>Analyzing Crime with Python</title><link href="http://pythonsd.org/march-2013-analyzing-crime-with-python.html" rel="alternate"></link><updated>2013-03-06T00:00:00-08:00</updated><author><name>Trey Hunner</name></author><id>tag:pythonsd.org,2013-03-06:march-2013-analyzing-crime-with-python.html</id><summary type="html">&lt;p&gt;Eric Busboom presented a data toolchain that could help our community analyze
 large public datasets with the goal of reducing the impact of crime.  The
