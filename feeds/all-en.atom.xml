@@ -13,12 +13,17 @@ today's event!&lt;/p&gt;
  (&lt;a href="http://www.youtube.com/watch?v=wQXhnhbx5CM"&gt;video&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://nbviewer.ipython.org/5406317"&gt;Pandas&lt;/a&gt; by Karmel Allison
  (&lt;a href="http://www.youtube.com/watch?v=riJjfiH7Neg"&gt;video&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Matplotlib by Drew Arnett&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.slideshare.net/pythonsd/matplotlib-presentation-20-apr2013-final-19667653"&gt;Matplotlib&lt;/a&gt;
+ by Drew Arnett (&lt;a href="http://www.youtube.com/watch?v=shm3S-tIjwI"&gt;video&lt;/a&gt;,
+ &lt;a href="http://www.slideshare.net/pythonsd/matplotlib-demo-code-19667654"&gt;code&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://clarinova.box.com/shared/static/lug0dq4wzht39fwkgge9.pdf"&gt;Analyzing crime &amp;amp; census data&lt;/a&gt;
- by Eric Busboom
- (&lt;a href="http://www.youtube.com/watch?v=zGPdgykykTQ"&gt;video&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.slideshare.net/pythonsd/blaze-theevolutionofnumpy"&gt;Blaze: the future of numpy?&lt;/a&gt; by David Fischer&lt;/li&gt;
+ by Eric Busboom (&lt;a href="http://www.youtube.com/watch?v=zGPdgykykTQ"&gt;video&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.slideshare.net/pythonsd/blaze-theevolutionofnumpy"&gt;Blaze: the future of numpy?&lt;/a&gt;
+ by David Fischer (&lt;a href="http://www.youtube.com/watch?v=Zvz30WX3G24"&gt;video&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;Here's the
+&lt;a href="https://raw.github.com/pythonsd/pythonsd.org/master/content/static/2013-04-20_s-and-p-historical.csv"&gt;S&amp;amp;P data set&lt;/a&gt;
+used by some of the presentations.&lt;/p&gt;
 &lt;p&gt;I will edit this shortly with the remaining presentations and videos.
 All credit for creating, editing and uploading the videos goes to Eric
 Busboom.&lt;/p&gt;</summary><category term="workshop"></category></entry><entry><title>March 2013 Meetup</title><link href="http://pythonsd.org/march-2013-meetup.html" rel="alternate"></link><updated>2013-03-28T00:00:00-07:00</updated><author><name>Paul Collins</name></author><id>tag:pythonsd.org,2013-03-28:march-2013-meetup.html</id><summary type="html">&lt;p&gt;Paul Collins presented on some &lt;a href="https://docs.google.com/presentation/d/14uO_dlLeWBtvZDZBC6czuUXjrNYNjRn4G9CoPe7q4TI/edit#slide=id.p"&gt;functional programming tools in
