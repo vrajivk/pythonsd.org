@@ -1,5 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>San Diego Python</title><link href="http://pythonsd.org/" rel="alternate"></link><link href="http://pythonsd.org/feeds/all-en.atom.xml" rel="self"></link><id>http://pythonsd.org/</id><updated>2013-04-20T00:00:00-07:00</updated><entry><title>Python for Data Analysis</title><link href="http://pythonsd.org/april-2013-data-analysis.html" rel="alternate"></link><updated>2013-04-20T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2013-04-20:april-2013-data-analysis.html</id><summary type="html">&lt;p&gt;&lt;a href="./static/images/2013-04-20_data-analysis.jpg"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>San Diego Python</title><link href="http://pythonsd.org/" rel="alternate"></link><link href="http://pythonsd.org/feeds/all-en.atom.xml" rel="self"></link><id>http://pythonsd.org/</id><updated>2013-10-04T00:00:00-07:00</updated><entry><title>October Newsletter</title><link href="http://pythonsd.org/october-newsletter-2013.html" rel="alternate"></link><updated>2013-10-04T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2013-10-04:october-newsletter-2013.html</id><summary type="html">&lt;p&gt;San Diego Pythonistas,&lt;/p&gt;
+&lt;p&gt;We created this newsletter to inform our users about events and happenings
+in the local as well as larger Python community. It's also a great way to
+connect people looking for jobs to those with job openings.&lt;/p&gt;
+&lt;p&gt;Here at San Diego Python, we love feedback. If you love our newsletter,
+tell us! If you hate it, we want to hear from you. Did you see some articles
+that we should have posted? Do you have an article, event or other suggestion
+for our next newsletter? &lt;a href="mailto:sandiegopython@gmail.com"&gt;Email us&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;News&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://voiceofsandiego.org/2013/10/02/the-next-frontier-of-open-data/"&gt;The Next Frontier of Open Data&lt;/a&gt; (voiceofsandiego.org) &lt;br /&gt;
+Eric Busboom, one of San Diego Python's own and the director of the San
+Diego Regional Data Library, was featured in a recent Voice of San Diego
+article on open city data.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.jetbrains.com/pycharm/whatsnew/index.html"&gt;PyCharm Community Edition&lt;/a&gt; (jetbrains.com) &lt;br /&gt;
+PyCharm, a popular Python editor has released a free version of its popular
+editor. This is a great tool for seasoned pros as well as those just getting
+started with Python.&lt;/p&gt;
+&lt;h2&gt;Upcoming events&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://www.meetup.com/pythonsd/events/138281092/"&gt;San Diego Python Monthly Meetup&lt;/a&gt; (meetup.com) &lt;br /&gt;
+San Diego Python's monthly meetup on October 24 will feature a talk on
+extending NumPy with C by Jaime Fernandez and a talk on the Blender Game
+Engine by JT Nelson. See you there.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.meetup.com/sd-pyladies/events/130229932/"&gt;PyLadies Demo Night&lt;/a&gt; (meetup.com) &lt;br /&gt;
+San Diego PyLadies, a group for women and men interested helping women become
+leaders in the Python community, is having a project demo night at UCSD's CAL
+IT2 building on October 29. Come check out what your fellow PyLadies are
+working on.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://us.pycon.org/2014/"&gt;Pycon US&lt;/a&gt; (pycon.org) &lt;br /&gt;
+Pycon US, the largest Python interest conference, is coming up
+(counter-intuitively) in Montréal on April 11-13. There will be additional
+events, such as tutorials and sprints on either side of those dates. The
+schedule won't be out for a bit, but registration is open.&lt;/p&gt;
+&lt;h2&gt;Jobs&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://www.cybercoders.com/senior-python-developer-job-127346"&gt;Senior Python developer wanted&lt;/a&gt; (cybercoders.com) &lt;br /&gt;
+Reed from Cybercoders contacted the group looking to fill this position.
+His client is looking for a Python developer with web and Django
+experience for a San Diego company in the online dating space.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.independa.com/careers"&gt;Python software engineer wanted&lt;/a&gt; (independa.com) &lt;br /&gt;
+Independa, a Carmel Valley based independent care technology solutions
+provider is looking for a Python developer familar with Django, MySQL and
+cloud deployment such as EC2 or Heroku. This was referred to San Diego Python
+by Laura and Steve of Steel Point Search.&lt;/p&gt;
+&lt;p&gt;Would you like to see your job opening posted here? &lt;a href="mailto:sandiegopython@gmail.com"&gt;Send it to us&lt;/a&gt;.
+It's free.&lt;/p&gt;</summary><category term="newsletter"></category></entry><entry><title>Python for Data Analysis</title><link href="http://pythonsd.org/april-2013-data-analysis.html" rel="alternate"></link><updated>2013-04-20T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2013-04-20:april-2013-data-analysis.html</id><summary type="html">&lt;p&gt;&lt;a href="./static/images/2013-04-20_data-analysis.jpg"&gt;
   &lt;img src="./static/images/2013-04-20_data-analysis.jpg" style="width: 300px; margin: 10px;" class="img-polaroid pull-right" alt="Python for Data Analysis" /&gt;
 &lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;We had about 40 people attend our
