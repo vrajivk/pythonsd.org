@@ -1,5 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>San Diego Python</title><link href="http://pythonsd.org/" rel="alternate"></link><link href="http://pythonsd.org/feeds/all.atom.xml" rel="self"></link><id>http://pythonsd.org/</id><updated>2013-10-04T00:00:00-07:00</updated><entry><title>October Newsletter</title><link href="http://pythonsd.org/october-newsletter-2013.html" rel="alternate"></link><updated>2013-10-04T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2013-10-04:october-newsletter-2013.html</id><summary type="html">&lt;p&gt;San Diego Pythonistas,&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>San Diego Python</title><link href="http://pythonsd.org/" rel="alternate"></link><link href="http://pythonsd.org/feeds/all.atom.xml" rel="self"></link><id>http://pythonsd.org/</id><updated>2013-11-01T00:00:00-07:00</updated><entry><title>November Newsletter</title><link href="http://pythonsd.org/november-newsletter-2013.html" rel="alternate"></link><updated>2013-11-01T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2013-11-01:november-newsletter-2013.html</id><summary type="html">&lt;p&gt;San Diego Pythoneers,&lt;/p&gt;
+&lt;p&gt;Here at San Diego Python, we love feedback. If you love our newsletter,
+tell us! If you hate it, we want to hear from you. Did you see some articles
+that we should have posted? Do you have an article, event or other suggestion
+for our next newsletter? &lt;a href="mailto:sandiegopython@gmail.com"&gt;Email us&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;News&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://www.tangowithdjango.com/"&gt;Tango with Django&lt;/a&gt; (tangowithdjango.com) &lt;br /&gt;
+For those who can't make our upcoming workshop or for those looking for an
+additional resource for learning Django, Tango with Django is a free learning
+guide for creating a fully fledged website with Django.&lt;/p&gt;
+&lt;p&gt;San Diego Python book exchange &lt;br /&gt;
+San Diego Python is starting a technical book exchange. We are accepting
+books that folks are done reading and we have a number to lend out as well.
+Currently our loaner list has books on Django, algorithms, Git and more.
+&lt;a href="mailto:sandiegopython@gmail.com"&gt;Email us&lt;/a&gt; for details.&lt;/p&gt;
+&lt;h2&gt;Upcoming events&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://www.meetup.com/pythonsd/events/138282532/"&gt;Test-driven Django development workshop&lt;/a&gt; (meetup.com) &lt;br /&gt;
+San Diego Python is hosting a workshop introducing Django through a
+test-driven lens on November 2nd (tomorrow!). This is a free event sponsored by
+the Python Software Foundation Outreach and Education committee.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://events.jquery.org/2014/san-diego/"&gt;jQuery conference&lt;/a&gt; (jquery.org) &lt;br /&gt;
+jQuery conference is coming to San Diego's Mission Valley February 12-13 with
+training (the Roost conference) happening the two days prior. jQuery is
+a JavaScript technology for building website front-ends and is commonly
+used with back-end technologies such as Django or Flask.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://us.pycon.org/2014/"&gt;Pycon US&lt;/a&gt; (pycon.org) &lt;br /&gt;
+Pycon US, the largest Python interest conference, is coming up
+(counter-intuitively) in Montréal on April 11-13. There will be additional
+events, such as tutorials and sprints on either side of those dates. The
+schedule won't be out for a bit, but registration is open.&lt;/p&gt;
+&lt;h2&gt;Jobs&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://www.gaikai.com/careers"&gt;Senior Python engineer&lt;/a&gt; (gaikai.com) &lt;br /&gt;
+Reine from Gaikai (a Sony Computer Entertainment company) is looking for Python
+engineers to join their cloud engineering team in Aliso Viejo. Gaikai is
+building out the world-wide cloud network to support the Playstation 4.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.independa.com/careers"&gt;Python software engineer wanted&lt;/a&gt; (independa.com) &lt;br /&gt;
+Independa, a Carmel Valley based independent care technology solutions
+provider is looking for a Python developer familar with Django, MySQL and
+cloud deployment such as EC2 or Heroku. This was referred to San Diego Python
+by Laura and Steve of Steel Point Search.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://jobs.ucsd.edu/bulletin/job.aspx?cat=information&amp;amp;sortby=post&amp;amp;jobnum_in=67764"&gt;Programmer analyst&lt;/a&gt; (ucsd.edu)
+&lt;a href="https://jobs.ucsd.edu/bulletin/job.aspx?cat=information&amp;amp;sortby=post&amp;amp;jobnum_in=67803"&gt;Biomedical data analyst&lt;/a&gt; (ucsd.edu)
+&lt;br /&gt;
+Jason from UCSD is looking to fill a few positions at UCSD research in
+Hillcrest. The programmer analyst position leans slightly heavier on the web
+side of Python while the data analyst opening leans heavier on the statistical
+side of Python.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.linkedin.com/jobs2/view/9506327?trk=job_nov"&gt;Web developer&lt;/a&gt; (linkedin.com) &lt;br /&gt;
+1AppWorks, a stealth-mode startup in La Jolla, is looking for an experienced
+web developer familiar with Python, PHP, Drupal, Django or Google App Engine.&lt;/p&gt;
+&lt;p&gt;Would you like to see your job opening posted here? &lt;a href="mailto:sandiegopython@gmail.com"&gt;Send it to us&lt;/a&gt;.
+It's free.&lt;/p&gt;</summary><category term="newsletter"></category></entry><entry><title>October Newsletter</title><link href="http://pythonsd.org/october-newsletter-2013.html" rel="alternate"></link><updated>2013-10-04T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2013-10-04:october-newsletter-2013.html</id><summary type="html">&lt;p&gt;San Diego Pythonistas,&lt;/p&gt;
 &lt;p&gt;We created this newsletter to inform our users about events and happenings
 in the local as well as larger Python community. It's also a great way to
 connect people looking for jobs to those with job openings.&lt;/p&gt;
