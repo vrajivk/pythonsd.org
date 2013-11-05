@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>San Diego Python</title><link href="http://pythonsd.org/" rel="alternate"></link><link href="http://pythonsd.org/feeds/all-en.atom.xml" rel="self"></link><id>http://pythonsd.org/</id><updated>2013-11-01T00:00:00-07:00</updated><entry><title>November Newsletter</title><link href="http://pythonsd.org/november-newsletter-2013.html" rel="alternate"></link><updated>2013-11-01T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2013-11-01:november-newsletter-2013.html</id><summary type="html">&lt;p&gt;San Diego Pythoneers,&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>San Diego Python</title><link href="http://pythonsd.org/" rel="alternate"></link><link href="http://pythonsd.org/feeds/all-en.atom.xml" rel="self"></link><id>http://pythonsd.org/</id><updated>2013-11-05T00:00:00-08:00</updated><entry><title>Test-Driven Django Development Workshop</title><link href="http://pythonsd.org/november-2013-django-tdd-workshop.html" rel="alternate"></link><updated>2013-11-05T00:00:00-08:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2013-11-05:november-2013-django-tdd-workshop.html</id><summary type="html">&lt;p&gt;&lt;a href="/static/images/2013-11-05_django-tdd-workshop.jpg"&gt;
+  &lt;img src="/static/images/2013-11-05_django-tdd-workshop.jpg" style="width: 300px; margin: 10px;" class="img-polaroid pull-right" alt="Django Test-Driven Development workshop" /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We had 40 people attend our
+&lt;a href="http://www.meetup.com/pythonsd/events/138282532/"&gt;Test-Driven Django Development workshop&lt;/a&gt; last weekend.
+Thanks to the &lt;a href="http://python.org/psf/"&gt;Python Software Foundation&lt;/a&gt; for sponsoring this event and
+thanks to the &lt;a href="http://aicenterca.com/"&gt;Ansir Innovation Center&lt;/a&gt; for providing the venue! The
+feedback on the event was extremely positive.&lt;/p&gt;
+&lt;p&gt;In case you missed our event or if you want to run your own Django
+test-driven development workshop, we have made all of our
+&lt;a href="http://test-driven-django-development.readthedocs.org/"&gt;workshop tutorials&lt;/a&gt; available online. The sources are
+up on &lt;a href="https://github.com/pythonsd/test-driven-django-development"&gt;github&lt;/a&gt; and we intend to continue to improve these so that
+they can be reused in another workshop.&lt;/p&gt;</summary><category term="workshop"></category></entry><entry><title>November Newsletter</title><link href="http://pythonsd.org/november-newsletter-2013.html" rel="alternate"></link><updated>2013-11-01T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2013-11-01:november-newsletter-2013.html</id><summary type="html">&lt;p&gt;San Diego Pythoneers,&lt;/p&gt;
 &lt;p&gt;Here at San Diego Python, we love feedback. If you love our newsletter,
 tell us! If you hate it, we want to hear from you. Did you see some articles
 that we should have posted? Do you have an article, event or other suggestion
