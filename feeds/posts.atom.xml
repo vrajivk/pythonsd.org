@@ -1,5 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>San Diego Python</title><link href="http://pythonsd.org/" rel="alternate"></link><link href="http://pythonsd.org/feeds/posts.atom.xml" rel="self"></link><id>http://pythonsd.org/</id><updated>2014-01-06T00:00:00-08:00</updated><entry><title>January Newsletter</title><link href="http://pythonsd.org/january-newsletter-2014.html" rel="alternate"></link><updated>2014-01-06T00:00:00-08:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2014-01-06:january-newsletter-2014.html</id><summary type="html">&lt;p&gt;Happy new year local Pythonistas,&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>San Diego Python</title><link href="http://pythonsd.org/" rel="alternate"></link><link href="http://pythonsd.org/feeds/posts.atom.xml" rel="self"></link><id>http://pythonsd.org/</id><updated>2014-02-05T00:00:00-08:00</updated><entry><title>February Newsletter</title><link href="http://pythonsd.org/february-newsletter-2014.html" rel="alternate"></link><updated>2014-02-05T00:00:00-08:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2014-02-05:february-newsletter-2014.html</id><summary type="html">&lt;p&gt;Local sun-loving-in-winter pythoneering individuals,&lt;/p&gt;
+&lt;p&gt;Here at San Diego Python, we love feedback. If you love our newsletter,
+tell us! If you hate it, we want to hear from you. Did you see some articles
+that we should have posted? Do you have an article, event or other suggestion
+for our next newsletter? &lt;a href="mailto:sandiegopython@gmail.com"&gt;Email us&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We are also looking for a speaker for this month's San Diego Python
+&lt;a href="http://www.meetup.com/pythonsd/events/163679122/"&gt;monthly meetup&lt;/a&gt;. If you'd be willing to give a Python related
+tech talk, please let us know. Soliciting speakers is becoming a regular
+occurrence.&lt;/p&gt;
+&lt;h2&gt;News&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://twoscoopspress.com/products/two-scoops-of-django-1-6"&gt;Two scoops of Django updated for Django 1.6&lt;/a&gt; (twoscoopspress.com)
+&lt;br /&gt;
+Two scoops of Django, a popular book from and for the Django community, has
+been revised for Django 1.6. This is a great book written by great people.&lt;/p&gt;
+&lt;h2&gt;Upcoming events&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://www.meetup.com/pythonsd/events/164679962/"&gt;Test-driven web development with Django II&lt;/a&gt; (meetup.com) &lt;br /&gt;
+San Diego Python and PyLadies will be having another test-driven Django
+workshop in mid March. The first one was a big success by our humble
+expectations and we are expanding our content for this one. We are still
+finalizing the location and sponsors.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://us.pycon.org/2014/"&gt;Pycon US&lt;/a&gt; (pycon.org) &lt;br /&gt;
+Pycon US, the largest Python interest conference, is coming up
+(counter-intuitively) in Montréal on April 11-13. There will be additional
+events, such as tutorials and sprints on either side of those dates. The
+schedule won't be out for a bit, but registration is open.&lt;/p&gt;
+&lt;h2&gt;Jobs&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://www.brightscope.com/about/careers/#job_Sr._Software_Engineer_"&gt;Sr. software engineer&lt;/a&gt; (brightscope.com) &lt;br /&gt;
+BrightScope, a local financial information company in UTC, is looking for
+exceptional engineers to expand their development team. They are also looking
+for a less than senior software engineer just in case.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://jobs.github.com/positions/3f1dcefc-7c76-11e3-8e20-9efdd7a82447"&gt;Python developer&lt;/a&gt; (github.com) &lt;br /&gt;
+Gildshire, a startup from the La Jolla UTC area, is about to launch in beta
+and is looking for enthusiastic part time and full time Python web developers
+familiar with the web2py framework.&lt;/p&gt;
+&lt;p&gt;&lt;a href="mailto:sandiegopython@gmail.com"&gt;Python programmer&lt;/a&gt; (email) &lt;br /&gt;
+Vijay from CA Technologies is looking for a Python developer for a contract
+to hire role. Specifically he is interested in a person with machine learning
+experience and the corresponding relevant Python packages. This job posting
+is not publicly posted on CA's website so email us and we'll put you in touch.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.independa.com/careers"&gt;Python software engineer wanted&lt;/a&gt; (independa.com) &lt;br /&gt;
+Independa, a Carmel Valley based independent care technology solutions
+provider is looking for a Python developer familar with Django, MySQL and
+cloud deployment such as EC2 or Heroku. This was referred to San Diego Python
+by Laura and Steve of Steel Point Search who mentioned that there were trying
+to fill eight positions.&lt;/p&gt;
+&lt;p&gt;Would you like to see your job opening posted here? &lt;a href="mailto:sandiegopython@gmail.com"&gt;Send it to us&lt;/a&gt;.
+It's free. However, if you recruit some top notch folks as a result and you
+are feeling particularly generous, the Python Software Foundation
+&lt;a href="https://psfmember.org/civicrm/contribute/transact?reset=1&amp;amp;id=9"&gt;accepts donations&lt;/a&gt; on our behalf but there is no
+obligation.&lt;/p&gt;</summary><category term="newsletter"></category></entry><entry><title>January Newsletter</title><link href="http://pythonsd.org/january-newsletter-2014.html" rel="alternate"></link><updated>2014-01-06T00:00:00-08:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2014-01-06:january-newsletter-2014.html</id><summary type="html">&lt;p&gt;Happy new year local Pythonistas,&lt;/p&gt;
 &lt;p&gt;Here at San Diego Python, we love feedback. If you love our newsletter,
 tell us! If you hate it, we want to hear from you. Did you see some articles
 that we should have posted? Do you have an article, event or other suggestion
