@@ -1,5 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>San Diego Python</title><link href="http://pythonsd.org/" rel="alternate"></link><link href="http://pythonsd.org/feeds/all.atom.xml" rel="self"></link><id>http://pythonsd.org/</id><updated>2014-05-02T00:00:00-07:00</updated><entry><title>May Newsletter</title><link href="http://pythonsd.org/may-newsletter-2014.html" rel="alternate"></link><updated>2014-05-02T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2014-05-02:may-newsletter-2014.html</id><summary type="html">&lt;p&gt;Hola Pythonistas,&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>San Diego Python</title><link href="http://pythonsd.org/" rel="alternate"></link><link href="http://pythonsd.org/feeds/all.atom.xml" rel="self"></link><id>http://pythonsd.org/</id><updated>2014-06-05T00:00:00-07:00</updated><entry><title>June Newsletter</title><link href="http://pythonsd.org/june-newsletter-2014.html" rel="alternate"></link><updated>2014-06-05T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2014-06-05:june-newsletter-2014.html</id><summary type="html">&lt;p&gt;Howdy Pythoneers,&lt;/p&gt;
+&lt;h2&gt;Upcoming events&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://sandiego.geekgirltechcon.com/"&gt;Geek Girl San Diego&lt;/a&gt; (geekgirltechcon.com) &lt;br /&gt;
+Geek Girl is a hands-on conference for women and men of all skill levels
+interested in technology. The conference is on June 21st at the Joan B. Kroc
+Institute for Peace and Justice on the beautiful University of San Diego
+campus. Scholarships are available for those seeking assistance.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.meetup.com/pythonsd/events/182397052/"&gt;Saturday study group&lt;/a&gt; (meetup.com) &lt;br /&gt;
+San Diego Python and PyLadies are continuing the Saturday study group at
+Pangea cafe. The goal of the Saturday study group is to learn Python together
+in a collaborative environment. There's talk about a Scientific Python Study
+Group as well for July but I don't want to spoil too much yet.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.meetup.com/pythonsd/events/163679532/"&gt;San Diego Python monthly meetup&lt;/a&gt; (meetup.com) &lt;br /&gt;
+Our regular monthly meetup will be held at the Ansir Innovation Center on
+Thursday June 26. The speaker(s) haven't yet been finalized but we have a
+number of people who have spoken up and we're going to try a format of more,
+shorter (~5 min) talks. If you're interested, feel free to contact us.&lt;/p&gt;
+&lt;h2&gt;Jobs&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://djangogigs.com/gigs/1603/"&gt;Senior Django developer&lt;/a&gt; (djangogigs.com) &lt;br /&gt;
+Fintoo.com, an early stage startup from Torrance, is looking for a Django
+developer.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.braincorporation.com/careers/"&gt;Python robotics developer&lt;/a&gt; (braincorporation.com) &lt;br /&gt;
+Brain Corporation is a Sorrento Valley based startup building robots that
+have animal-like learning. They are looking for talented software
+engineers. Most of their code base is in python. They have free Apple gadgets,
+breakfasts and lunches and a fun, relaxed environment. Feel free to contact
+&lt;a href="mailto:hunt@braincorporation.com"&gt;Jonathan&lt;/a&gt; directly.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www2.apply2jobs.com/scires/ProfExt/index.cfm?fuseaction=mExternal.showJob&amp;amp;RID=5476&amp;amp;CurrentPage=1"&gt;Network application developer&lt;/a&gt; (apply2jobs.com) &lt;br /&gt;
+Scientific Research Corporation in beautiful Point Loma is looking for a
+network application developer familiar with databases and backend web
+development.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.brightscope.com/about/careers/#job_Full_Stack_Developer"&gt;Software engineer&lt;/a&gt; (brightscope.com) &lt;br /&gt;
+BrightScope, a local financial information company in UTC, is looking for
+exceptional engineers to expand their development team. They are big Django
+users and big San Diego Python supporters.&lt;/p&gt;
+&lt;h2&gt;News&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://pythonsd.org/pages/workshops.html"&gt;SD Python workshops&lt;/a&gt; (pythonsd.org) &lt;br /&gt;
+San Diego Python now has a specific page about our past workshops. If you
+missed a workshop but want to know what we covered, take a look. If you run
+a local users group, feel free to borrow liberally from our materials.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/channel/UCXU-oZwaHnoYUhja_yrrrGg"&gt;May meetup videos&lt;/a&gt; (youtube.com) &lt;br /&gt;
+The audio is not great, but last month's presentations by Daniel Greenfeld
+and Trey Hunner are up on youtube. You can also check out
+&lt;a href="http://pydanny.com/slides/webhooks/"&gt;Danny's slides&lt;/a&gt; and &lt;a href="https://github.com/pythonsd/presentations/tree/master/tricks"&gt;Trey's slides&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Notes&lt;/h2&gt;
+&lt;p&gt;Would you like to see your job opening posted here? &lt;a href="mailto:sandiegopython@gmail.com"&gt;Send it to us&lt;/a&gt;.
+It's free. However, if you recruit some top notch folks as a result and you
+are feeling particularly generous, the Python Software Foundation
+&lt;a href="https://psfmember.org/civicrm/contribute/transact?reset=1&amp;amp;id=9"&gt;accepts donations&lt;/a&gt; on our behalf but there is no
+obligation. These donations entirely go toward paying for workshops such as
+March's &lt;a href="http://www.meetup.com/pythonsd/events/164679962/"&gt;Django TDD workshop&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Did you know you can download the San Diego Python &lt;a href="https://github.com/pythonsd/logos"&gt;logo&lt;/a&gt; and monogram
+it onto your shirt, hoodie, hat or bag? See the relevant old post for more
+&lt;a href="http://pythonsd.org/san-diego-python-gear.html"&gt;details&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Here at San Diego Python, we love feedback. If you love our newsletter,
+tell us! If you hate it, we want to hear from you. Did you see some articles
+that we should have posted? Do you have an article, event or other suggestion
+for our next newsletter? &lt;a href="mailto:sandiegopython@gmail.com"&gt;Email us&lt;/a&gt; or tweet
+&lt;a href="https://twitter.com/sandiegopython"&gt;@sandiegopython&lt;/a&gt;.&lt;/p&gt;</summary><category term="newsletter"></category></entry><entry><title>May Newsletter</title><link href="http://pythonsd.org/may-newsletter-2014.html" rel="alternate"></link><updated>2014-05-02T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2014-05-02:may-newsletter-2014.html</id><summary type="html">&lt;p&gt;Hola Pythonistas,&lt;/p&gt;
 &lt;p&gt;We haven't yet lined up a speaker for this month's San Diego
 Python &lt;a href="http://www.meetup.com/pythonsd/events/163679432/"&gt;monthly meetup&lt;/a&gt;. If you'd be willing to give
 a talk on a Python related topic this month or next, please let us
