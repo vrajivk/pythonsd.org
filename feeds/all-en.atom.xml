@@ -1,5 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>San Diego Python</title><link href="http://pythonsd.org/" rel="alternate"></link><link href="http://pythonsd.org/feeds/all-en.atom.xml" rel="self"></link><id>http://pythonsd.org/</id><updated>2014-07-03T00:00:00-07:00</updated><entry><title>July Newsletter</title><link href="http://pythonsd.org/july-newsletter-2014.html" rel="alternate"></link><updated>2014-07-03T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2014-07-03:july-newsletter-2014.html</id><summary type="html">&lt;p&gt;Happy Independence Day Pythonistas,&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>San Diego Python</title><link href="http://pythonsd.org/" rel="alternate"></link><link href="http://pythonsd.org/feeds/all-en.atom.xml" rel="self"></link><id>http://pythonsd.org/</id><updated>2014-08-06T00:00:00-07:00</updated><entry><title>August Newsletter</title><link href="http://pythonsd.org/august-newsletter-2014.html" rel="alternate"></link><updated>2014-08-06T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2014-08-06:august-newsletter-2014.html</id><summary type="html">&lt;p&gt;Good day friendly developers,&lt;/p&gt;
+&lt;h2&gt;Upcoming events&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://www.meetup.com/pythonsd/events/196007992/"&gt;Saturday study group&lt;/a&gt; (meetup.com) &lt;br /&gt;
+San Diego PyLadies and SD Python and  are continuing the Saturday study group
+at Pangea cafe. The goal of the Saturday study group is to learn Python
+together in a collaborative environment.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.meetup.com/pythonsd/events/197325952/"&gt;San Diego Python monthly meetup&lt;/a&gt; (meetup.com) &lt;br /&gt;
+Our regular monthly meetup will be held at the Ansir Innovation Center on
+Thursday August 28. We are doing 5 minute lightning talks. There are two talks
+lined up on PyCon 2015 and comparing Numba, LLVM and Julia. If you are
+interested in speaking, please &lt;a href="mailto:sandiegopython@gmail.com"&gt;contact us&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.meetup.com/pythonsd/events/199295402/"&gt;Intro to Python workshop&lt;/a&gt; (meetup.com) &lt;br /&gt;
+San Diego Python is planning an Intro to Python workshop on Saturday
+September 20 open to folks of all Python skill levels. More details
+will be available in the coming weeks. For information on past PythonSD
+workshops, see &lt;a href="http://pythonsd.org/pages/workshops.html"&gt;our website&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Jobs&lt;/h2&gt;
+&lt;p&gt;&lt;a href="mailto:craigyk@nimgs.com"&gt;Python developer&lt;/a&gt; (email) &lt;br /&gt;
+NanoImaging Services Inc. is company that provides transmission electron
+microscopy imaging as a service for pharmaceutical companies. They have
+been awarded a one year grant to develop a faster prototype of their
+automated data collection software, and are looking for an additional
+software developer to help with this task. The project will largely be
+greenfield, but strong experience with Python will be valuable for making
+best use of the &lt;a href="http://goo.gl/jz7j8Z"&gt;existing&lt;/a&gt; &lt;a href="http://goo.gl/OHxN3k"&gt;codebase&lt;/a&gt;. This project
+provides an opportunity to work on hardware interaction, networked
+application architecture, image processing, and computer vision- so if
+these topics interest you, please apply!&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.dealstruck.com/"&gt;Software engineers&lt;/a&gt; (dealstruck.com) &lt;br /&gt;
+Dealstruck, a local startup, is seeking talented full-stack Software Engineers
+to help build their next generation business crowdlending platform. They are
+building on Angular.js, CoffeeScript, Python, Django, Force.com and AWS.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://tackk.com/ztyf44"&gt;Rock Star Django developer&lt;/a&gt; (tackk.com) &lt;br /&gt;
+CoachLogix, a downtown startup, is looking for a Django rock star familiar
+with REST APIs, Git and AWS to help them build out a cloud platform targeting
+the professional market.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.brightscope.com/about/careers/#job_Senior_Software_Engineer"&gt;Software engineer&lt;/a&gt; (brightscope.com) &lt;br /&gt;
+BrightScope, a local financial information company in UTC, is looking for
+exceptional engineers to expand their development team. They are big Django
+users and big San Diego Python supporters.&lt;/p&gt;
+&lt;h2&gt;News&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/channel/UCXU-oZwaHnoYUhja_yrrrGg"&gt;Presentation videos&lt;/a&gt; (youtube.com) &lt;br /&gt;
+Presentations from the July Monthly meetup are available on San Diego
+Python's YouTube channel. The presentation materials for our meetups are
+available in our &lt;a href="https://github.com/pythonsd/presentations"&gt;presentations repository&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Notes&lt;/h2&gt;
+&lt;p&gt;Would you like to see your job opening on our newsletter that reaches over
+600 local Python developers? &lt;a href="mailto:sandiegopython@gmail.com"&gt;Send it to us&lt;/a&gt;. The Python Software
+Foundation &lt;a href="https://psfmember.org/civicrm/contribute/transact?reset=1&amp;amp;id=9"&gt;accepts donations&lt;/a&gt; on our behalf but there is no
+obligation to donate in order to highlight your posting here. Five dollars
+helps and $50 helps a lot. These donations entirely go toward paying for
+workshops such as March's &lt;a href="http://www.meetup.com/pythonsd/events/164679962/"&gt;Django TDD workshop&lt;/a&gt; and
+September's &lt;a href="http://www.meetup.com/pythonsd/events/199295402/"&gt;Intro to Python workshop&lt;/a&gt;. Also, we are on
+&lt;a href="https://www.gittip.com/sandiegopython/"&gt;gittip&lt;/a&gt; if you're into that sort of thing.&lt;/p&gt;
+&lt;p&gt;We have only ONE remaining signed copy of &lt;a href="http://twoscoopspress.org/"&gt;Two Scoops of Django&lt;/a&gt;.
+A copy could be yours (for cheaper than Amazon)!&lt;/p&gt;
+&lt;p&gt;Did you know that San Diego Python has a chat room? There are some nice
+folks happy to help or just chat in &lt;a href="http://pythonsd.org/pages/chat-room.html"&gt;#sandiegopython&lt;/a&gt; on Freenode.&lt;/p&gt;</summary><category term="newsletter"></category></entry><entry><title>July Newsletter</title><link href="http://pythonsd.org/july-newsletter-2014.html" rel="alternate"></link><updated>2014-07-03T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2014-07-03:july-newsletter-2014.html</id><summary type="html">&lt;p&gt;Happy Independence Day Pythonistas,&lt;/p&gt;
 &lt;p&gt;Did you know that San Diego Python has an IRC channel? There are some nice
 folks happy to help or just chat in &lt;a href="http://webchat.freenode.net/?channels=sandiegopython"&gt;#sandiegopython&lt;/a&gt; on Freenode.&lt;/p&gt;
 &lt;h2&gt;Upcoming events&lt;/h2&gt;
