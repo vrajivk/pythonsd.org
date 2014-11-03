@@ -1,5 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>San Diego Python</title><link href="http://pythonsd.org/" rel="alternate"></link><link href="http://pythonsd.org/feeds/posts.atom.xml" rel="self"></link><id>http://pythonsd.org/</id><updated>2014-09-08T00:00:00-07:00</updated><entry><title>September Newsletter</title><link href="http://pythonsd.org/september-newsletter-2014.html" rel="alternate"></link><updated>2014-09-08T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2014-09-08:september-newsletter-2014.html</id><summary type="html">&lt;p&gt;Howdy Pythonistas,&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>San Diego Python</title><link href="http://pythonsd.org/" rel="alternate"></link><link href="http://pythonsd.org/feeds/posts.atom.xml" rel="self"></link><id>http://pythonsd.org/</id><updated>2014-11-02T00:00:00-07:00</updated><entry><title>November Newsletter</title><link href="http://pythonsd.org/november-newsletter-2014.html" rel="alternate"></link><updated>2014-11-02T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2014-11-02:november-newsletter-2014.html</id><summary type="html">&lt;p&gt;Pythoneers,&lt;/p&gt;
+&lt;p&gt;After a bit of a hiatus, the monthly newsletter is back!&lt;/p&gt;
+&lt;p&gt;First of all, a bit of housekeeping is in order. There will be a few changes
+to the schedule of the San Diego Python monthly meetup for the next two months.
+Our usual 4th Thursday schedule would mean a meetup on Thanksgiving and on
+Christmas. Instead, we will be having our Django One-Day Unconference on
+&lt;strong&gt;November 15&lt;/strong&gt; and a casual meetup on &lt;strong&gt;December 12&lt;/strong&gt;. Neither of these are
+at the usual spot, so make sure to check meetup.com.&lt;/p&gt;
+&lt;h2&gt;Upcoming events&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://www.meetup.com/pythonsd/events/207791832/"&gt;Saturday study group&lt;/a&gt; (meetup.com) &lt;br /&gt;
+San Diego PyLadies and SD Python are continuing the Saturday study group
+at Pangea cafe. The goal of the Saturday study group is to learn Python
+together in a collaborative environment. Thanks to all that have been
+helping out and participating. It's been fun and helpful.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.meetup.com/pythonsd/events/212859872/"&gt;Django One-Day Unconference&lt;/a&gt; (meetup.com) &lt;br /&gt;
+&lt;a href="http://brightscope.com"&gt;Brightscope&lt;/a&gt; is sponsoring a Django One-Day Unconference, a
+participant-driven event where every attendee is encouraged to present
+or just have a conversation on a topic of their choice. While we are
+suggesting a Python/Django focus for talks, there is no requirement. This
+event is free and will be at Brightscope's UTC office on November 15.&lt;/p&gt;
+&lt;h2&gt;Jobs&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://www.brightscope.com/about/careers/#job_Senior_Software_Engineer"&gt;Software engineer&lt;/a&gt; (brightscope.com) &lt;br /&gt;
+BrightScope, a local financial information company in UTC, is looking for
+exceptional engineers to expand their development team. They are big Django
+users and big San Diego Python supporters.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://gildshire.com"&gt;Gildshire&lt;/a&gt; (gildshire.com) &lt;br /&gt;
+Gildshire, a local company that assembles an online collection of magazines,
+is looking for a strong Python developer to work with them on a part-time basis
+at first with the potential to grow into a senior engineer or CTO role.&lt;/p&gt;
+&lt;h2&gt;News&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://rocketship.fm/"&gt;Rocketship.fm&lt;/a&gt; (rocketship.fm) &lt;br /&gt;
+The Rocketship podcast is a fantastic podcast run by local entreprenuers where
+you can listen to successful entreprenuers talk about growing a business.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://medium.com/@BlairsReport/5-hubs-you-need-to-know-in-san-diegos-startup-and-tech-scene-8035d3169094"&gt;San Diego Tech Hubs&lt;/a&gt; (medium.com) &lt;br /&gt;
+Blair Giesen, a contributor to Voice of San Diego, has a great new article
+on tech hubs in San Diego. I was previously unaware of &lt;a href="http://herahub.com/"&gt;HeraHub&lt;/a&gt;, a
+co-working space with a focus on female entreprenuers.&lt;/p&gt;
+&lt;h2&gt;Notes&lt;/h2&gt;
+&lt;p&gt;Would you like to see your job opening on our newsletter that reaches over
+600 local Python developers? &lt;a href="mailto:sandiegopython@gmail.com"&gt;Send it to us&lt;/a&gt;. The Python Software
+Foundation &lt;a href="https://psfmember.org/civicrm/contribute/transact?reset=1&amp;amp;id=9"&gt;accepts donations&lt;/a&gt; on our behalf but there is no
+obligation to donate in order to highlight your posting here. Five dollars
+helps and $50 helps a lot. These donations entirely go toward paying for
+workshops such as March's &lt;a href="http://www.meetup.com/pythonsd/events/164679962/"&gt;Django TDD workshop&lt;/a&gt; and
+September's &lt;a href="http://www.meetup.com/pythonsd/events/199295402/"&gt;Intro to Python workshop&lt;/a&gt;. Also, we are on
+&lt;a href="https://www.gittip.com/sandiegopython/"&gt;gittip&lt;/a&gt; if you're into that sort of thing.&lt;/p&gt;
+&lt;p&gt;Did you know that San Diego Python has a chat room? There are some nice
+folks happy to help or just chat in &lt;a href="http://pythonsd.org/pages/chat-room.html"&gt;#sandiegopython&lt;/a&gt; on Freenode.&lt;/p&gt;</summary><category term="newsletter"></category></entry><entry><title>September Newsletter</title><link href="http://pythonsd.org/september-newsletter-2014.html" rel="alternate"></link><updated>2014-09-08T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2014-09-08:september-newsletter-2014.html</id><summary type="html">&lt;p&gt;Howdy Pythonistas,&lt;/p&gt;
 &lt;p&gt;We can now raffle off licenses of PyCharm Professional at many of our
 meetups! &lt;a href="http://www.jetbrains.com/pycharm/"&gt;JetBrains&lt;/a&gt;, the maker of PyCharm is generously sponsoring our
 group through awarding a license for each meetup with more than 30
