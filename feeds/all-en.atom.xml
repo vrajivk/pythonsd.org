@@ -1,5 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>San Diego Python</title><link href="http://pythonsd.org/" rel="alternate"></link><link href="http://pythonsd.org/feeds/all-en.atom.xml" rel="self"></link><id>http://pythonsd.org/</id><updated>2014-11-02T00:00:00-07:00</updated><entry><title>November Newsletter</title><link href="http://pythonsd.org/november-newsletter-2014.html" rel="alternate"></link><updated>2014-11-02T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2014-11-02:november-newsletter-2014.html</id><summary type="html">&lt;p&gt;Pythoneers,&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>San Diego Python</title><link href="http://pythonsd.org/" rel="alternate"></link><link href="http://pythonsd.org/feeds/all-en.atom.xml" rel="self"></link><id>http://pythonsd.org/</id><updated>2014-12-11T00:00:00-08:00</updated><entry><title>December Newsletter</title><link href="http://pythonsd.org/december-newsletter-2014.html" rel="alternate"></link><updated>2014-12-11T00:00:00-08:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2014-12-11:december-newsletter-2014.html</id><summary type="html">&lt;p&gt;Hey Pythonistas,&lt;/p&gt;
+&lt;p&gt;Over the last year, you have helped San Diego Python grow from under 500
+members to almost 800 members today. San Diego PyLadies has more than
+doubled in size to over 150 members. The meetups are better attended, and
+more importantly, more local developers are participating, speaking, working
+together and asking questions of their peers. Thanks to you our members!&lt;/p&gt;
+&lt;h2&gt;Upcoming events&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://www.meetup.com/pythonsd/events/216957992/"&gt;SD Python Casual Meetup&lt;/a&gt; (meetup.com) &lt;br /&gt;
+This month's meetup which is replacing the usual monthly meetup will be
+on &lt;strong&gt;December 12&lt;/strong&gt; at Regent's Pizzeria. No talks are scheduled but there will
+be ample opportunity to chat with your fellow Pythonistas about your plans
+for the year ahead.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.meetup.com/pythonsd/events/218722615/"&gt;Saturday study group&lt;/a&gt; (meetup.com) &lt;br /&gt;
+San Diego PyLadies and SD Python are continuing the Saturday study group
+at Pangea cafe. The goal of the Saturday study group is to learn Python
+together in a collaborative environment. Thanks to all that have been
+helping out and participating. It's been fun and helpful.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.meetup.com/pythonsd/events/219205663/"&gt;January Monthly Meetup&lt;/a&gt; (meetup.com) &lt;br /&gt;
+For January's monthly meetup, &lt;a href="http://continuum.io"&gt;Continuum Analytics&lt;/a&gt;, the makers of the
+popular scientific Python distribution Anaconda will be presenting.
+&lt;a href="http://www.nanoimagingservices.com/"&gt;NanoImaging Services&lt;/a&gt; will be hosting and sponsoring
+the meetup which will be at the usual time but not the usual venue.&lt;/p&gt;
+&lt;h2&gt;Jobs&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://www.brightscope.com/about/careers/#job_Senior_Software_Engineer"&gt;Software engineer&lt;/a&gt; (brightscope.com) &lt;br /&gt;
+BrightScope, a local financial information company in UTC, is looking for
+exceptional engineers to expand their development team. They are big Django
+users and big San Diego Python supporters.&lt;/p&gt;
+&lt;h2&gt;News&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://www.fablabsd.org/"&gt;FabLabSD has moved&lt;/a&gt; (fablabsd.org) &lt;br /&gt;
+FabLabSD, San Diego's non-profit digital fabrication laboratory and education
+hub has moved from next to the Ansir Center to their new location at 14th
+and E in downtown.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.meetup.com/pythonsd/events/212859872/"&gt;Django One-Day Unconference&lt;/a&gt; (meetup.com) &lt;br /&gt;
+In case you missed the Django One-Day Unconference last month sponsored by
+&lt;a href="http://brightscope.com"&gt;Brightscope&lt;/a&gt; or you wanted to review one of the great talks, much of the
+materials were posted to the meetup or are available in the &lt;a href="https://github.com/pythonsd/presentations"&gt;presentations&lt;/a&gt;
+repository.&lt;/p&gt;
+&lt;h2&gt;Notes&lt;/h2&gt;
+&lt;p&gt;Would you like to see your job opening on our newsletter that reaches over
+700 local Python developers? First, read our
+&lt;a href="http://pythonsd.org/pages/job-posting-guidelines.html"&gt;job posting guidelines&lt;/a&gt; and then &lt;a href="mailto:sandiegopython@gmail.com"&gt;send it to us&lt;/a&gt;
+if you would like it to appear in the newsletter or you can post it
+yourself to our mailing list.&lt;/p&gt;
+&lt;p&gt;The Python Software Foundation &lt;a href="https://psfmember.org/civicrm/contribute/transact?reset=1&amp;amp;id=9"&gt;accepts donations&lt;/a&gt; on our
+behalf but there is no obligation to donate in order to highlight your
+posting here. Five dollars helps and $50 helps a lot. These donations entirely
+go toward paying for workshops such as March's
+&lt;a href="http://www.meetup.com/pythonsd/events/164679962/"&gt;Django TDD workshop&lt;/a&gt; and September's
+&lt;a href="http://www.meetup.com/pythonsd/events/199295402/"&gt;Intro to Python workshop&lt;/a&gt;. Also, we are on &lt;a href="https://www.gittip.com/sandiegopython/"&gt;gittip&lt;/a&gt; if
+you're into that sort of thing.&lt;/p&gt;
+&lt;p&gt;Did you know that San Diego Python has a chat room? There are some nice
+folks happy to help or just chat in &lt;a href="http://pythonsd.org/pages/chat-room.html"&gt;#sandiegopython&lt;/a&gt; on Freenode.&lt;/p&gt;</summary><category term="newsletter"></category></entry><entry><title>November Newsletter</title><link href="http://pythonsd.org/november-newsletter-2014.html" rel="alternate"></link><updated>2014-11-02T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2014-11-02:november-newsletter-2014.html</id><summary type="html">&lt;p&gt;Pythoneers,&lt;/p&gt;
 &lt;p&gt;After a bit of a hiatus, the monthly newsletter is back!&lt;/p&gt;
 &lt;p&gt;First of all, a bit of housekeeping is in order. There will be a few changes
 to the schedule of the San Diego Python monthly meetup for the next two months.
