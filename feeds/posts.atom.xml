@@ -1,5 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>San Diego Python</title><link href="http://pythonsd.org/" rel="alternate"></link><link href="http://pythonsd.org/feeds/posts.atom.xml" rel="self"></link><id>http://pythonsd.org/</id><updated>2015-01-03T00:00:00-08:00</updated><entry><title>January Newsletter</title><link href="http://pythonsd.org/january-newsletter-2015.html" rel="alternate"></link><updated>2015-01-03T00:00:00-08:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2015-01-03:january-newsletter-2015.html</id><summary type="html">&lt;p&gt;Happy New Year,&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>San Diego Python</title><link href="http://pythonsd.org/" rel="alternate"></link><link href="http://pythonsd.org/feeds/posts.atom.xml" rel="self"></link><id>http://pythonsd.org/</id><updated>2015-02-02T00:00:00-08:00</updated><entry><title>February Newsletter</title><link href="http://pythonsd.org/february-newsletter-2015.html" rel="alternate"></link><updated>2015-02-02T00:00:00-08:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2015-02-02:february-newsletter-2015.html</id><summary type="html">&lt;p&gt;Howdy,&lt;/p&gt;
+&lt;p&gt;If there are articles, jobs or events you'd like to see in the next newsletter
+or if you have any feedback on San Diego Python, feel free to
+&lt;a href="mailto:sandiegopython-organizers@googlegroups.com"&gt;share with us&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Upcoming events&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://www.meetup.com/pythonsd/events/219919725/"&gt;Saturday study group&lt;/a&gt; (meetup.com) &lt;br /&gt;
+San Diego PyLadies and SD Python are continuing the Saturday study group
+at Pangea cafe. The goal of the Saturday study group is to learn Python
+together in a collaborative environment. Over the next few weeks, the group
+will feature some data mining/analysis presentations by Eric Busboom. If
+you're going to the data science workshop, check it out!&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.meetup.com/pythonsd/events/220215636/"&gt;Monthly Meetup&lt;/a&gt; (meetup.com) &lt;br /&gt;
+Our regular monthly meetup will be held at the Ansir Innovation Center on
+Thursday February 26 at 7pm. We are doing 5 minute lightning talks. If you
+are interested in speaking, please &lt;a href="mailto:sandiegopython-organizers@googlegroups.com"&gt;contact us&lt;/a&gt; or post in the meetup
+comments.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.meetup.com/pythonsd/events/219582270/"&gt;Data Science Workshop&lt;/a&gt; (meetup.com) &lt;br /&gt;
+San Diego Python in conjunction with the &lt;a href="http://www.meetup.com/San-Diego-Data-Science-R-Users-Group/"&gt;San Diego Data Science and R users group&lt;/a&gt;, &lt;a href="http://www.meetup.com/San-Diego-Machine-Learning/"&gt;San Diego Machine Learning&lt;/a&gt;, the &lt;a href="http://www.meetup.com/San-Diego-Predictive-Analytics-Meetup/events/"&gt;San Diego Predictive Analytics Meetup&lt;/a&gt; and the &lt;a href="http://www.meetup.com/San-Diego-Regional-Data-Library/"&gt;Regional Data Science Library&lt;/a&gt; is putting on a data science workshop at SDSU on February 28. There will be Python and R tutorials, a data science exhibition, machine learning challenges and a data analysis contest.&lt;/p&gt;
+&lt;h2&gt;Jobs&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://taphunter.workable.com/jobs/31725"&gt;Software developer and craft beer enthusiast&lt;/a&gt; (workable.com) &lt;br /&gt;
+TapHunter, a downtown startup focused on craft beverages, is looking for a
+developer to join their team. Their stack is Python and Django on Appengine
+and their mobile app is written with JavaScript on Titanium.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.intellisis.com/jobs.php"&gt;Software engineer&lt;/a&gt; (intellesis.com) &lt;br /&gt;
+Intellisis is looking for you, the agile-loving, curious, technology-obsessed
+Python connoisseur ready to take on new challenges. They're a small company
+near Torrey Pines and are all-in with Python.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.brightscope.com/about/careers/#job_Senior_Software_Engineer"&gt;Software engineer&lt;/a&gt; (brightscope.com) &lt;br /&gt;
+BrightScope, a local financial information company in UTC, is looking for
+exceptional engineers to expand their development team. They are big Django
+users and big San Diego Python supporters.&lt;/p&gt;
+&lt;h2&gt;News&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=bJP8NoV7rV4"&gt;January Meetup Video&lt;/a&gt; (youtube.com) &lt;br /&gt;
+Travis Swicegood from &lt;a href="http://continuum.io"&gt;Continuum Analytics&lt;/a&gt; presented at our
+&lt;a href="http://www.meetup.com/pythonsd/events/219205663/"&gt;January meetup&lt;/a&gt; on conda, a packaging utility that can be used with their
+popular scientific Python distribution Anaconda. The meetup took place at and
+was sponsored by &lt;a href="http://www.nanoimagingservices.com/"&gt;NanoImaging Services&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.socallinuxexpo.org/scale/13x"&gt;SoCal Linux Expo&lt;/a&gt; (socallinuxexpo.com) &lt;br /&gt;
+PyLadies San Diego along with the other SoCal PyLadies groups will be hosting
+a booth at SoCal Linux Expo in LA on February 19-22. SoCal Linux Expo is the
+largest community run free and open source software (FOSS) conference in North
+America. Tickets are as little as $10 depending on what you'd like to see.&lt;/p&gt;
+&lt;h2&gt;Notes&lt;/h2&gt;
+&lt;p&gt;Would you like to see your job opening on our newsletter that reaches over
+800 local Python developers? First, read our
+&lt;a href="http://pythonsd.org/pages/job-posting-guidelines.html"&gt;job posting guidelines&lt;/a&gt; and then &lt;a href="mailto:sandiegopython-organizers@googlegroups.com"&gt;send it to us&lt;/a&gt;
+if you would like it to appear in the newsletter or you can post it
+yourself to our mailing list.&lt;/p&gt;
+&lt;p&gt;The Python Software Foundation &lt;a href="https://psfmember.org/civicrm/contribute/transact?reset=1&amp;amp;id=9"&gt;accepts donations&lt;/a&gt; on our
+behalf but there is no obligation to donate in order to highlight your
+posting here. Five dollars helps and $50 helps a lot. These donations entirely
+go toward our periodic workshops as well as our meetup.com dues.
+Also, we are on &lt;a href="https://www.gittip.com/sandiegopython/"&gt;gittip&lt;/a&gt; if you're into that sort of thing.&lt;/p&gt;
+&lt;p&gt;Did you know that San Diego Python has a chat room? There are some nice
+folks happy to help or just chat in &lt;a href="http://pythonsd.org/pages/chat-room.html"&gt;#sandiegopython&lt;/a&gt; on Freenode.&lt;/p&gt;</summary><category term="newsletter"></category></entry><entry><title>January Newsletter</title><link href="http://pythonsd.org/january-newsletter-2015.html" rel="alternate"></link><updated>2015-01-03T00:00:00-08:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2015-01-03:january-newsletter-2015.html</id><summary type="html">&lt;p&gt;Happy New Year,&lt;/p&gt;
 &lt;p&gt;Just before New Year's we crossed the 800 member milestone!&lt;/p&gt;
 &lt;p&gt;We are looking to have a cross-disciplinary (Python, R, Kline and Weka)
 data science workshop in late February or early March. We are actively seeking
