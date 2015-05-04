@@ -1,5 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>San Diego Python</title><link href="http://pythonsd.org/" rel="alternate"></link><link href="http://pythonsd.org/feeds/all-en.atom.xml" rel="self"></link><id>http://pythonsd.org/</id><updated>2015-04-08T00:00:00-07:00</updated><entry><title>April Newsletter</title><link href="http://pythonsd.org/april-newsletter-2015.html" rel="alternate"></link><updated>2015-04-08T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2015-04-08:april-newsletter-2015.html</id><summary type="html">&lt;p&gt;Pythonistas,&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>San Diego Python</title><link href="http://pythonsd.org/" rel="alternate"></link><link href="http://pythonsd.org/feeds/all-en.atom.xml" rel="self"></link><id>http://pythonsd.org/</id><updated>2015-05-03T00:00:00-07:00</updated><entry><title>May Newsletter</title><link href="http://pythonsd.org/may-newsletter-2015.html" rel="alternate"></link><updated>2015-05-03T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2015-05-03:may-newsletter-2015.html</id><summary type="html">&lt;p&gt;Pythonistas,&lt;/p&gt;
+&lt;p&gt;We now have a &lt;a href="http://pythonsd.org/pages/code-of-conduct.html"&gt;code of conduct&lt;/a&gt;! Our community as part of the Python community
+at large works hard on being welcoming, and this code of conduct is just a
+formal outline of what is expected from members of the community. Please get in
+touch with one of the organizers if you have questions.&lt;/p&gt;
+&lt;h2&gt;Upcoming events&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://www.meetup.com/pythonsd/events/221953664/"&gt;Saturday study group&lt;/a&gt; (meetup.com) &lt;br /&gt;
+San Diego PyLadies and SD Python are continuing the Saturday study group
+at the &lt;strong&gt;Ansir Innovation Center&lt;/strong&gt;. The goal of the Saturday study group is to
+learn Python together in a collaborative environment.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.meetup.com/sd-pyladies/events/222165575/"&gt;PyLadies Casual Study Group&lt;/a&gt; (meetup.com) &lt;br /&gt;
+San Diego PyLadies are meeting at Lestat's on Adams Avenue on Tuesday May 12
+at 6pm. Whether you are interested in learning Python or a Python pro looking
+to keep your skills fresh with a friendly group of Ladies and supportive men,
+this is the group for you. This meeting is now regularly held on the 2nd and
+4th Tuesdays of each month.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.facebook.com/events/1620616498151586/"&gt;Tijuana Python Users Group&lt;/a&gt; (facebook.com) &lt;br /&gt;
+May 14 will be the first meeting of the Tijuana Python Users Group. The event
+will be in Spanish at the fantastic HUB STN coworking space at 7pm.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.meetup.com/pythonsd/events/220848358/"&gt;Monthly Meetup&lt;/a&gt; (meetup.com) &lt;br /&gt;
+Our regular monthly meetup will be held at the Ansir Innovation Center on
+Thursday May 28 at 7pm. We are actively seeking speakers for five minute lightning
+talks. Please comment on the meetup if you're interested in speaking.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://sandiego.geekgirltechcon.com/"&gt;Geek Girl San Diego&lt;/a&gt; (geekgirltechcon.com) &lt;br /&gt;
+Geek Girl Tech Conference returns to San Diego on June 20. It is the largest
+hands-on tech conference of the year for Women and Men in San Diego. All skill
+levels are welcome. There are discounts for non-profits and students.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.scipy2015.scipy.org/"&gt;SciPy 2015&lt;/a&gt; (scipy.org) &lt;br /&gt;
+SciPy's annual conference is being held July 6-12 in Austin. SciPy is a
+community (and a pretty darn good toolkit) dedicated to open source Python
+software for math, science and engineering. The call for papers is closes
+this week.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://2015.djangocon.us/"&gt;DjangoCon US&lt;/a&gt; (djangocon.us) &lt;br /&gt;
+DjangoCon will be in Austin this year from September 7-9. Texas is a popular
+place for conferences this year. Financial aid is available and the call for
+proposals is open until May 15. This year DjangoCon is run by a new nonprofit,
+the Django Events Foundation North America (DEFNA) which means lower prices and
+making the event more accessible to those who need it.&lt;/p&gt;
+&lt;h2&gt;Jobs&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://sportechbi.wordpress.com/job-opportunities/"&gt;Software developer&lt;/a&gt; (sportechbi.wordpress.com) &lt;br /&gt;
+Are you into data analytics and sports? Or just looking for an early stage
+startup to join? SporTech B.I. is looking to add it's first member of the
+team outside the co-founders.  As Lead Software Engineer, you'll work
+alongside the C.T.O. to build amazing business intelligence apps for sports
+organizations, starting with soccer clubs.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.brightscope.com/about/careers/#job_Software_Engineer"&gt;Full Stack Developer&lt;/a&gt; (brightscope.com) &lt;br /&gt;
+Brightscope, a local financial analytics firm and big SD Python supporter is
+looking to hire a full stack Django developer to join their ever growing team.
+They are based in the UTC area.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.intellisis.com/#career-wrapper"&gt;Software engineer at Intellisis&lt;/a&gt; (intellisis.com) &lt;br /&gt;
+Intellisis is looking for you, the agile-loving, curious, technology-obsessed
+Python connoisseur ready to take on new challenges. They're a small company
+near Torrey Pines and are all-in with Python.&lt;/p&gt;
+&lt;h2&gt;Notes&lt;/h2&gt;
+&lt;p&gt;Would you like to see your job opening on our newsletter that reaches over
+1000 local Python developers? First, read our
+&lt;a href="http://pythonsd.org/pages/job-posting-guidelines.html"&gt;job posting guidelines&lt;/a&gt; and then &lt;a href="mailto:sandiegopython-organizers@googlegroups.com"&gt;send it to us&lt;/a&gt;
+if you would like it to appear in the newsletter or you can post it
+yourself to our mailing list.&lt;/p&gt;
+&lt;p&gt;The Python Software Foundation &lt;a href="https://psfmember.org/civicrm/contribute/transact?reset=1&amp;amp;id=9"&gt;accepts donations&lt;/a&gt; on our
+behalf but there is no obligation to donate in order to highlight your
+posting here. Five dollars helps and $50 helps a lot. These donations entirely
+go toward our periodic workshops as well as our meetup.com dues.
+Also, we are on &lt;a href="https://www.gittip.com/sandiegopython/"&gt;gittip&lt;/a&gt; if you're into that sort of thing.&lt;/p&gt;
+&lt;p&gt;Did you know that San Diego Python has a chat room? There are some nice
+folks happy to help or just chat in &lt;a href="http://pythonsd.org/pages/chat-room.html"&gt;#sandiegopython&lt;/a&gt; on Freenode.&lt;/p&gt;</summary><category term="newsletter"></category></entry><entry><title>April Newsletter</title><link href="http://pythonsd.org/april-newsletter-2015.html" rel="alternate"></link><updated>2015-04-08T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2015-04-08:april-newsletter-2015.html</id><summary type="html">&lt;p&gt;Pythonistas,&lt;/p&gt;
 &lt;p&gt;We are always looking for new presenters for SD Python's monthly meetup.
 If you're interested in giving a talk, please &lt;a href="mailto:sandiegopython-organizers@googlegroups.com"&gt;email us&lt;/a&gt;.&lt;/p&gt;
 &lt;h2&gt;Upcoming events&lt;/h2&gt;
