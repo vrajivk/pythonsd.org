@@ -1,5 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>San Diego Python</title><link href="http://pythonsd.org/" rel="alternate"></link><link href="http://pythonsd.org/feeds/all-en.atom.xml" rel="self"></link><id>http://pythonsd.org/</id><updated>2015-08-02T00:00:00-07:00</updated><entry><title>August Newsletter</title><link href="http://pythonsd.org/august-newsletter-2015.html" rel="alternate"></link><updated>2015-08-02T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2015-08-02:august-newsletter-2015.html</id><summary type="html">&lt;p&gt;Pythonistas,&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>San Diego Python</title><link href="http://pythonsd.org/" rel="alternate"></link><link href="http://pythonsd.org/feeds/all-en.atom.xml" rel="self"></link><id>http://pythonsd.org/</id><updated>2015-10-02T00:00:00-07:00</updated><entry><title>October Newsletter</title><link href="http://pythonsd.org/october-newsletter-2015.html" rel="alternate"></link><updated>2015-10-02T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2015-10-02:october-newsletter-2015.html</id><summary type="html">&lt;p&gt;Pythonistas,&lt;/p&gt;
+&lt;p&gt;Thanks very much to &lt;a href="https://hired.com/"&gt;Hired&lt;/a&gt; for sponsoring our last monthly meetup!&lt;/p&gt;
+&lt;h2&gt;Upcoming events&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;a href="http://sdmakerfaire.org/"&gt;Maker Faire San Diego&lt;/a&gt; (sdmakerfaire.org) &lt;br /&gt;
+There's a Maker Faire in Balboa Park this weekend. It is a festival of
+innovation. People will be showing off all the amazing things they have
+made. San Diego Python will be there showing off an internet enabled
+coffee pot. Tickets are on sale.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.meetup.com/pythonsd/events/225248201/"&gt;Saturday study group&lt;/a&gt; (meetup.com) &lt;br /&gt;
+San Diego PyLadies and SD Python are continuing the Saturday study group
+at the Ansir Innovation Center. The goal of the Saturday study group is to
+learn Python together in a collaborative environment. The study group is open
+to people of all skill levels and is particularly open to those new to Python.
+Bring a laptop!&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.eventbrite.com/e/become-an-open-source-contributor-to-numpy-tickets-18899110749"&gt;Becoming a NumPy contributor&lt;/a&gt; (eventbrite.com) &lt;br /&gt;
+If you're interested in data science and NumPy but don't know how you can help,
+this is the event for you. Come get your hands dirty on October 19 at Geisel
+Library at UCSD. You will learn about contributing to NumPy with Git and
+GitHub. Tickets are free but very limited to the general public. Lots of
+tickets are available for UCSD students.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.coursera.org/course/interactivepython1"&gt;Introduction to Interactive Programming with Python&lt;/a&gt; (coursera.org) &lt;br /&gt;
+This excellent and fun course has just started again. Join Diane, Maggie, Rebecca, Alain, Eric, Gopal, Jaime, Juan, Kyle, Peter and many others at each Saturday Study Group (see above) as we take, or retake, this class. Sure, we'll improve our collection of python made video-games! Also we'll master the skills of interactive programming with python to the point of teaching others. You could be the next tutor in a Coding Class for teenagers at UCSD!&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.meetup.com/sd-pyladies/events/xvnvglytnbrb/"&gt;PyLadies Casual Study Group&lt;/a&gt; (meetup.com) &lt;br /&gt;
+San Diego PyLadies are meeting at Eclipse Chocolat (now a usual location!!)
+on Tuesday October 13 at 6pm. Get some of the best chocolate in San Diego and
+learn some code. Whether you are interested in learning Python or a Python
+pro looking to keep your skills fresh with a friendly group of Ladies and
+supportive men, this is the group for you.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.meetup.com/pythonsd/events/223828845/"&gt;Monthly Meetup&lt;/a&gt; (meetup.com) &lt;br /&gt;
+Our regular monthly meetup will be held at the Ansir Innovation Center on
+Thursday October 22 at 7pm. We are actively seeking speakers for five to ten
+minute lightning talks. Please comment on the meetup if you're interested in
+speaking.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://djangogirls.org/inlandempire/"&gt;Django Girls Inland Empire workshop&lt;/a&gt; (djangogirls.org) &lt;br /&gt;
+Django Girls, a non-profit that helps organize programming workshops for women,
+is holding a workshop for women who would like to learn to build websites at
+UC Riverside on December 4-5. Space is limited!&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://us.pycon.org/2016/"&gt;PyCon 2016&lt;/a&gt; (us.pycon.org) &lt;br /&gt;
+PyCon 2016 is coming to Porland Oregon in late May 2016. Registration opens
+in mid-October. The call for proposals is open if you want to speak at PyCon.&lt;/p&gt;
+&lt;h2&gt;Jobs&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;a href="http://www.eastridgelabs.com/python-engineer"&gt;Python Engineer&lt;/a&gt; (eastridgelabs.com) &lt;br /&gt;
+Eastridge Workforce Solutions, a local provider of workforce management is
+looking for a Python engineer to join their team. The engineer will be
+responsible for designing and building modular applications and APIs. The
+only absolute requirement is expertise with (and a love for) Python.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.brightscope.com/about/careers/#job_Software_Engineer"&gt;Full Stack Developer&lt;/a&gt; (brightscope.com) &lt;br /&gt;
+Brightscope, a local financial analytics firm and big SD Python supporter is
+looking to hire a full stack Django developer to join their ever growing team.
+They are based in the UTC area.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;Would you like to see your job opening on our newsletter that reaches over
+1000 local Python developers? First, read our
+&lt;a href="http://pythonsd.org/pages/job-posting-guidelines.html"&gt;job posting guidelines&lt;/a&gt; and then &lt;a href="mailto:sandiegopython-organizers@googlegroups.com"&gt;send it to us&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Notes&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;p&gt;We are always looking for people willing to help organize San Diego Python.
+Can you help film speakers at the monthly meetup? Would you like to put
+together this newsletter once in a while? Want to help at the beginners table
+at the Saturday study group? Ask an &lt;a href="mailto:sandiegopython-organizers@googlegroups.com"&gt;organizer&lt;/a&gt; how you can help!&lt;/p&gt;
+&lt;p&gt;You can always talk to us at &lt;a href="http://pythonsd.org/pages/chat-room.html"&gt;#sandiegopython&lt;/a&gt; on Freenode and if you feel
+we're doing a great job then the PSF &lt;a href="https://psfmember.org/civicrm/contribute/transact?reset=1&amp;amp;id=9"&gt;accepts donations&lt;/a&gt; on
+our behalf.&lt;/p&gt;</summary><category term="newsletter"></category></entry><entry><title>August Newsletter</title><link href="http://pythonsd.org/august-newsletter-2015.html" rel="alternate"></link><updated>2015-08-02T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2015-08-02:august-newsletter-2015.html</id><summary type="html">&lt;p&gt;Pythonistas,&lt;/p&gt;
 &lt;p&gt;Udemy has made a special offer to our members. They have a new class entitled
 &lt;a href="https://www.udemy.com/python-gui-programming/"&gt;Python GUI Programming&lt;/a&gt;. The course is normally $79 but the first 50 people
 who use the coupon code "pythonsd.org" would get free access to the course.
