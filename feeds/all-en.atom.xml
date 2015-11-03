@@ -1,5 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>San Diego Python</title><link href="http://pythonsd.org/" rel="alternate"></link><link href="http://pythonsd.org/feeds/all-en.atom.xml" rel="self"></link><id>http://pythonsd.org/</id><updated>2015-10-02T00:00:00-07:00</updated><entry><title>October Newsletter</title><link href="http://pythonsd.org/october-newsletter-2015.html" rel="alternate"></link><updated>2015-10-02T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2015-10-02:october-newsletter-2015.html</id><summary type="html">&lt;p&gt;Pythonistas,&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>San Diego Python</title><link href="http://pythonsd.org/" rel="alternate"></link><link href="http://pythonsd.org/feeds/all-en.atom.xml" rel="self"></link><id>http://pythonsd.org/</id><updated>2015-11-02T00:00:00-08:00</updated><entry><title>November Newsletter</title><link href="http://pythonsd.org/november-newsletter-2015.html" rel="alternate"></link><updated>2015-11-02T00:00:00-08:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2015-11-02:november-newsletter-2015.html</id><summary type="html">&lt;p&gt;Pythonistas,&lt;/p&gt;
+&lt;p&gt;Our &lt;a href="http://www.meetup.com/pythonsd/events/226177901/"&gt;monthly meetup&lt;/a&gt; this month is &lt;strong&gt;NOT&lt;/strong&gt; on the usual 4th Thursday which
+is Thanksgiving this month. Instead it will be on the 19th of the month. The
+December meetup will also not be on the usual date.&lt;/p&gt;
+&lt;h2&gt;Upcoming events&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;a href="http://www.meetup.com/SanDiego-Tech-Founders/events/226070689/"&gt;Justin Mares comes to SD Tech Founders&lt;/a&gt; (meetup.com) &lt;br /&gt;
+Justin Mares, co-author of &lt;em&gt;Traction - How Any Startup Can Achieve Explosive
+Growth&lt;/em&gt;, will be coming to San Diego Tech Founders on November 4th to talk
+about growing startups and his book. Tickets are $10.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.meetup.com/pythonsd/events/226399158/"&gt;Saturday study group&lt;/a&gt; (meetup.com) &lt;br /&gt;
+San Diego PyLadies and SD Python are continuing the Saturday study group
+at the Ansir Innovation Center. The goal of the Saturday study group is to
+learn Python together in a collaborative environment. The study group is open
+to people of all skill levels and is particularly open to those new to Python.
+Bring a laptop!&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.meetup.com/sd-pyladies/events/xvnvglytpbnb/"&gt;PyLadies Casual Study Group&lt;/a&gt; (meetup.com) &lt;br /&gt;
+San Diego PyLadies are meeting at Eclipse Chocolat (now a usual location!!)
+on Tuesday November 10 at 6pm. Get some of the best chocolate in San Diego and
+learn some code. Whether you are interested in learning Python or a Python
+pro looking to keep your skills fresh with a friendly group of Ladies and
+supportive men, this is the group for you.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.meetup.com/pythonsd/events/226177901/"&gt;Monthly Meetup&lt;/a&gt; (meetup.com) &lt;br /&gt;
+Our regular monthly meetup will be held at the Ansir Innovation Center on
+&lt;strong&gt;Thursday November 19&lt;/strong&gt; at 7pm. We are actively seeking speakers for five to ten
+minute lightning talks. Please comment on the meetup if you're interested in
+speaking.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://djangogirls.org/inlandempire/"&gt;Django Girls Inland Empire workshop&lt;/a&gt; (djangogirls.org) &lt;br /&gt;
+Django Girls, a non-profit that helps organize programming workshops for women,
+is holding a workshop for women who would like to learn to build websites at
+UC Riverside on December 5. Applications are still open and they are
+looking for mentors.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://us.pycon.org/2016/"&gt;PyCon 2016&lt;/a&gt; (us.pycon.org) &lt;br /&gt;
+PyCon 2016 is coming to Porland Oregon in late May 2016. &lt;a href="https://us.pycon.org/2016/registration/"&gt;Registration&lt;/a&gt; and
+the call for proposals are now open.&lt;/p&gt;
+&lt;h2&gt;Jobs&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;a href="http://www.signspan.com/"&gt;Backend Django Developer&lt;/a&gt; (signspan.com) &lt;br /&gt;
+SignSpan is a San Diego-based startup focused on developing a digital signage
+cloud platform. We are looking for a remote, part-time backend developer
+conversant in python and Django. Responsibilities include design,
+implementation, and maintenance of REST APIs. Expertise in Mandrill, AWS,
+Swagger, agile, and JIRA are highly recommended. Contact &lt;a href="https://www.linkedin.com/pub/tom-yip/5/883/90a"&gt;Tom&lt;/a&gt; for details.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.eastridgelabs.com/python-engineer"&gt;Python Engineer&lt;/a&gt; (eastridgelabs.com) &lt;br /&gt;
+Eastridge Workforce Solutions, a local provider of workforce management is
+looking for a Python engineer to join their team. The engineer will be
+responsible for designing and building modular applications and APIs. The
+only absolute requirement is expertise with (and a love for) Python.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/daguillon"&gt;Python Developer Consultant&lt;/a&gt; (linkedin.com) &lt;br /&gt;
+A client in the La Jolla/UTC area is looking for a candidate with heavy Python
+development.  Knowledge of Apache, Linux, multiprocessing, SQL, Mongo DB and
+HBase is helpful. Contact Diego with Sayva Solutions for details.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;Would you like to see your job opening on our newsletter that reaches over
+1000 local Python developers? First, read our
+&lt;a href="http://pythonsd.org/pages/job-posting-guidelines.html"&gt;job posting guidelines&lt;/a&gt; and then &lt;a href="mailto:sandiegopython-organizers@googlegroups.com"&gt;send it to us&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Notes&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;p&gt;We are always looking for people willing to help organize San Diego Python.
+Can you help film speakers at the monthly meetup? Would you like to put
+together this newsletter once in a while? Want to help at the beginners table
+at the Saturday study group? Ask an &lt;a href="mailto:sandiegopython-organizers@googlegroups.com"&gt;organizer&lt;/a&gt; how you can help!&lt;/p&gt;
+&lt;p&gt;You can always talk to us at &lt;a href="http://pythonsd.org/pages/chat-room.html"&gt;#sandiegopython&lt;/a&gt; on Freenode and if you feel
+we're doing a great job then the PSF &lt;a href="https://psfmember.org/civicrm/contribute/transact?reset=1&amp;amp;id=9"&gt;accepts donations&lt;/a&gt; on
+our behalf.&lt;/p&gt;</summary><category term="newsletter"></category></entry><entry><title>October Newsletter</title><link href="http://pythonsd.org/october-newsletter-2015.html" rel="alternate"></link><updated>2015-10-02T00:00:00-07:00</updated><author><name>David Fischer</name></author><id>tag:pythonsd.org,2015-10-02:october-newsletter-2015.html</id><summary type="html">&lt;p&gt;Pythonistas,&lt;/p&gt;
 &lt;p&gt;Thanks very much to &lt;a href="https://hired.com/"&gt;Hired&lt;/a&gt; for sponsoring our last monthly meetup!&lt;/p&gt;
 &lt;h2&gt;Upcoming events&lt;/h2&gt;
 &lt;hr /&gt;
